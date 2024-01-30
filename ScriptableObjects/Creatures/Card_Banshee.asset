@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 824b6ac2f94a3f644876bcde76b14bc7, type: 3}
+  m_Name: Card_Banshee
+  m_EditorClassIdentifier: 
+  cardName: Banshee
+  cardImage: {fileID: 0}
+  cardAbilityName: Eternal
+  cardAbility: Can bypass any creature card and direct attack the opponents points
+    (On Play)
+  cardType: Creature
+  cardColor: {r: 0.44860607, g: 0, b: 0.6226415, a: 0}
+  cardSoulType: 5
+  defaultSoulCost: 4
+  defaultSacrificeCost: 3
+  defaultAttack: 4
+  defaultDefense: 3
+  soulCost: 4
+  sacrificeCost: 3
+  attack: 4
+  defense: 3

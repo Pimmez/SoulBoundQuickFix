@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d55e2371280cc934db461fa43f016acc, type: 3}
+  m_Name: Card_Fredariq
+  m_EditorClassIdentifier: 
+  cardName: Fredariq The Undead
+  cardImage: {fileID: 0}
+  cardAbility: While on the field, magic cards have a -1 cost in your hands. (On
+    Play)
+  leftCardAbility: Get 2 cursed souls (once).
+  rightCardAbility: Give 'Eternal' to the connected card
+  cardColor: {r: 0, g: 0, b: 0, a: 0}
+  cardSubTypeIcon: {fileID: 0}
+  cardType: Immortal
+  cardSoulType: 5
+  defaultSoulCost: 4
+  defaultSoulLives: 3
+  soulCost: 4
+  soulLives: 3
